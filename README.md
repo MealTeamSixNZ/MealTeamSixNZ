@@ -7,7 +7,7 @@
 <li>Django</li>
 <li>Ruby on Rails</li>
 <li>JavaScript</li>
-
+<br/>
 Let me know if you have any ideas for projects that are good for learning!
 
 <!--
