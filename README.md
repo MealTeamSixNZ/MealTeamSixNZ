@@ -1,4 +1,16 @@
-### Hi there 👋
+<h1>Welcome to my GitHub</h1>
+
+<h2>I'm currently learning any number of the following:</h2>
+<ul>
+Python
+HTML
+CSS
+Django
+Ruby on Rails
+JavaScript
+</ul>
+
+Let me know if you have any ideas for projects that are good for learning!
 
 <!--
 **MealTeamSixNZ/MealTeamSixNZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
