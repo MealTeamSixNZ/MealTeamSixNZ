@@ -1,14 +1,14 @@
 <h1>Welcome to my GitHub</h1>
 
 <h2>I'm currently learning any number of the following:</h2>
-<ul>
+<li>
 Python
 HTML
 CSS
 Django
 Ruby on Rails
 JavaScript
-</ul>
+</li>
 
 Let me know if you have any ideas for projects that are good for learning!
 
